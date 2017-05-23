@@ -1,0 +1,17 @@
+[
+{
+"_id" : 1 ,
+"label" : "compte 1 (courant) - mongoDB",
+"solde" : 601.0
+},
+{
+"_id" : 2 ,
+"label" : "compte 2 (LDD) - mongoDB",
+"solde" : 3201.0
+},
+{
+"_id" : 3 ,
+"label" : "compte 3 (PEL) - mongoDB",
+"solde" : 6501.0
+}
+]

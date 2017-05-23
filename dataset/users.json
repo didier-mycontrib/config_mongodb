@@ -1,0 +1,17 @@
+[
+{
+"username" : "user0-3-4-n",
+"password" : "bcrypt10(sha1(sha1(pwd0-3-4-n)+basic_salt))",
+"email" : "user0-3-4-n@gmail.com"
+},
+{
+"username" : "user1",
+"password" : "pwd1",
+"email" : "user1@gmail.com"
+},
+{
+"username" : "user2",
+"password" : "pwd2",
+"email" : "user2@gmail.com"
+}
+]

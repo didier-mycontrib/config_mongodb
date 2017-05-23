@@ -1,0 +1,3 @@
+db.clients.find();
+db.comptes.find();
+db.operations.find();

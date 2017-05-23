@@ -1,0 +1,23 @@
+[
+{
+"_id" : 1,
+"compte" : 1,
+"label" : "achat xy - mongoDB",
+"montant" : -51,
+"dateOp" : "2015-01-20"
+},
+{
+"_id" : 2,
+"compte" : 2,
+"label" : "achat zz - mongoDB",
+"montant" : -91,
+"dateOp" : "2015-02-08"
+},
+{
+"_id" : 3,
+"compte" : 1,
+"label" : "salaire - mongoDB",
+"montant" : 2001,
+"dateOp" : "2015-03-18"
+}
+]
