@@ -1,0 +1,13 @@
+db.operations.aggregate([
+	{
+	$lookup : {
+		"localField": "compte",
+		"from": "comptes",
+		"foreignField": "_id",
+		"as": "compte"
+		} 
+	},
+	{ 
+	"$unwind": "$compte" 
+	}
+   ]);

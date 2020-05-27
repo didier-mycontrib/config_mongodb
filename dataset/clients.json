@@ -7,5 +7,23 @@
 "adresse" : { "idAdr" :1 ,"rue" : "123 - rue elle" , "codePostal" : "75000", "ville" : "Par ici"  },
 "telephone" : "0102030405" ,
 "email" : "alain.therieur@ici-ou-la-bas.fr"
+},
+{
+"_id" : 2,
+"comptes" : [ 1 , 2 ],
+"nom": "Bon",
+"prenom": "jean",
+"adresse" : { "idAdr" :2 ,"rue" : "123 - rue zz" , "codePostal" : "69000", "ville" : "Lyon"  },
+"telephone" : "0101010101" ,
+"email" : "jean.bon@ici-ou-la-bas.fr"
+},
+{
+"_id" : 3,
+"comptes" : [ 1 , 2 ],
+"nom": "Aire",
+"prenom": "axelle",
+"adresse" : { "idAdr" :3 ,"rue" : "123 - rue xy" , "codePostal" : "80000", "ville" : "Amiens"  },
+"telephone" : "0504030201" ,
+"email" : "jean.bon@ici-ou-la-bas.fr"
 }
 ]
